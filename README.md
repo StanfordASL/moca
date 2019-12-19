@@ -1,4 +1,4 @@
-# Online Bayesian Meta-Learning via Changepoint Detection
+# Continuous Meta-Learning without Tasks
 
 This code accompanies the paper **Continuous Meta-Learning without Tasks** by James Harrison, Apoorva Sharma, Chelsea Finn, and Marco Pavone. 
 
